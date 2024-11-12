@@ -5,6 +5,16 @@ Application d'un blog avec NextJS
 
 ## Démarrer l'application
 
+Télécharger les fichiers build et les dépendances
+
+```
+npm run build
+```
+
+```
+npm install
+```
+
 Démarrer le serveur
 
 ```
